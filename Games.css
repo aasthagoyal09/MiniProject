@@ -53,7 +53,10 @@ a{
     overflow: hidden;
     
 }
-
+.sec1 img{
+    width: 100%;
+    height: 100%;
+}
 .sec2{
     color:peru;
     margin: 5px;
