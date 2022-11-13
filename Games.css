@@ -20,9 +20,9 @@ h1{
     border: .5px black solid;
     border-radius: 18px;
     background-color:rgb(247, 234, 210);
-    cursor: pointer;
     overflow: hidden;
     transition: width 1s;
+    cursor: pointer;
 }
 .game:hover{
     width: 430px;
