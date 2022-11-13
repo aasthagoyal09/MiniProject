@@ -46,16 +46,16 @@ a{
 }
 .sec1{
     margin: 3px;
-    width: 10%;
-    height: 80%;
+    width: 20px;
+    height: 20px;
     border: 1px black solid;
     border-radius: 10px;
     overflow: hidden;
-    background-size: cover;
+    
 }
 
 .sec2{
-    border: 1px black solid;
+    
     margin: 5px;
     padding-left: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
